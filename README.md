@@ -7,6 +7,8 @@ A new Flutter application.
 
 car accelerator deisgn
 
+https://www.linkedin.com/posts/abbos-mamadaliyev-bb44b4200_flutter-customabrpaint-activity-6917756213728321536-zPHt?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 #flutter #custom_paint #animation
 
 ----------------------------------------------------
